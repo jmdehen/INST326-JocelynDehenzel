@@ -1,3 +1,6 @@
 Week 1: I did not use AI
 Week 2: I used AI to help figure out which commands to use and to debug when my code didn't run correctly. 
 Here is the link to my chat: https://claude.ai/chat/3ae30613-1db3-455a-86bf-08b04ad6ffcf 
+Week 3: I used ChatGPT to debug my code and help me in areas where I was confused. 
+Here is the link to my chat:
+https://chatgpt.com/c/68d34675-0438-832f-9208-51a03d893261 
