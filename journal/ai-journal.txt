@@ -4,3 +4,8 @@ Here is the link to my chat: https://claude.ai/chat/3ae30613-1db3-455a-86bf-08b0
 Week 3: I used ChatGPT to debug my code and help me in areas where I was confused. 
 Here is the link to my chat:
 https://chatgpt.com/c/68d34675-0438-832f-9208-51a03d893261 
+Week 4: I used ChatGPT and Claude AI to debug my code. 
+Here is the link to my ChatGPT chat:
+https://chatgpt.com/c/68e0196a-8d68-832b-b530-ec1b3db821f1
+Here is the link to my Claude chat:
+https://claude.ai/chat/4db1eddd-3974-475e-948d-1c0e7159bcb4
