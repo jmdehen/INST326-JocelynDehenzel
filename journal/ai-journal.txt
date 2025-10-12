@@ -9,3 +9,5 @@ Here is the link to my ChatGPT chat:
 https://chatgpt.com/c/68e0196a-8d68-832b-b530-ec1b3db821f1
 Here is the link to my Claude chat:
 https://claude.ai/chat/4db1eddd-3974-475e-948d-1c0e7159bcb4
+Week 5: I used Claude AI to help me complete the exercises. 
+Here is the link to my chat: https://claude.ai/chat/39f1590f-d3d6-472f-84c0-93f7798ec2ed
