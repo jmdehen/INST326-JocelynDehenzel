@@ -11,3 +11,4 @@ Here is the link to my Claude chat:
 https://claude.ai/chat/4db1eddd-3974-475e-948d-1c0e7159bcb4
 Week 5: I used Claude AI to help me complete the exercises. 
 Here is the link to my chat: https://claude.ai/chat/39f1590f-d3d6-472f-84c0-93f7798ec2ed
+Week 5 (Project): I asked Claude to create functions for the Function Library project. After that, I reviewed the code to ensure that it was accurate. All of the functions recieved AI assistance. I validated each function by ensureing that it ran correctly in VS code. By using AI, I learned better ways to fact-check code and better understand how functions work. To improve the AI-generated code, I ran it through AI again to make sure there were no erros. Here is the link to the chat: https://claude.ai/share/e6d6231b-181e-4f8c-b77d-ec21a9bb10e7
