@@ -20,3 +20,5 @@ Week 7 (Project): I asked Claude to sort the Project 1 functions into classes. A
 Link to chat: https://claude.ai/share/e6d6231b-181e-4f8c-b77d-ec21a9bb10e7
 Week 8: I used Claude AI to help generate initial code for my weekly exercises.
 Link to chat: https://claude.ai/chat/444acad0-0e32-4272-8d86-dc375d327e80
+Week 9: I used Claude AI to help generate initial code for my weekly exercises.
+Link to chat: https://claude.ai/chat/444acad0-0e32-4272-8d86-dc375d327e80
