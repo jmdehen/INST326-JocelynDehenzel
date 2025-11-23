@@ -22,3 +22,5 @@ Week 8: I used Claude AI to help generate initial code for my weekly exercises.
 Link to chat: https://claude.ai/chat/444acad0-0e32-4272-8d86-dc375d327e80
 Week 9: I used Claude AI to help generate initial code for my weekly exercises.
 Link to chat: https://claude.ai/chat/444acad0-0e32-4272-8d86-dc375d327e80
+Week 10: I used Claude AI to help generate initial code for my weekly exercises.
+Link to chat: https://claude.ai/chat/596c65fe-37bd-4672-aa0b-8699c80ec61f
